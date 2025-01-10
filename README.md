@@ -1,1 +1,1 @@
-# Group-F-project
+Group-F-project: We participated in sunny-side challenge to replicate sunny-side agency landing page. The goal is to design a landing page that will look close or exactly as the original design  This will help us grasp how landing pages are built,  thereby improving our skills in writing code on html and styling with .CSS
